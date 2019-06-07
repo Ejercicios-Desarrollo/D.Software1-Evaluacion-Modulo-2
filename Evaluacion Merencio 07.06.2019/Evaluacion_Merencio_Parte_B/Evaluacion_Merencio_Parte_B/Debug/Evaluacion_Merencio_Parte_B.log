@@ -1,0 +1,6 @@
+﻿  Evaluacion_Merencio_Parte_B.cpp
+c:\users\alumno\source\repos\evaluacion_merencio_parte_b\evaluacion_merencio_parte_b\structs.h(5): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\alumno\source\repos\evaluacion_merencio_parte_b\evaluacion_merencio_parte_b\evaluacion_merencio_parte_b.cpp(41): warning C4715: 'automovilMostraGama': no todas las rutas de acceso de control devuelven un valor
+c:\users\alumno\source\repos\evaluacion_merencio_parte_b\evaluacion_merencio_parte_b\evaluacion_merencio_parte_b.cpp(52): warning C4715: 'facturaMostraFormaDePago': no todas las rutas de acceso de control devuelven un valor
+c:\users\alumno\source\repos\evaluacion_merencio_parte_b\evaluacion_merencio_parte_b\evaluacion_merencio_parte_b.cpp(63): warning C4715: 'facturaMostraTipo': no todas las rutas de acceso de control devuelven un valor
+  Evaluacion_Merencio_Parte_B.vcxproj -> C:\Users\ALUMNO\source\repos\Evaluacion_Merencio_Parte_B\Debug\Evaluacion_Merencio_Parte_B.exe
